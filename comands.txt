@@ -1,0 +1,18 @@
+git add - чтоб сделать след. коммит
+git commit - делает коммит
+git push - отправка изменений в удаленный репозиторий
+git pull
+git init - инициализация
+git clone - скачивание репозитория
+git checkout -- "file name"
+git status - просмотр текущих изминений
+git reset - отменяет изминения
+git branch - создает ветку
+git config - для указания пользовательских настроек, почта имя
+git 
+git 
+git 
+git 
+git 
+git 
+git 
